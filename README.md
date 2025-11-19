@@ -67,6 +67,7 @@ The system includes:
 ---
 
 ## Tabulation
+![opti](https://github.com/user-attachments/assets/29eac185-8bf8-42b1-bea2-8ff690b5a6f2)
 
 **Transmission Analysis Across Fiber Lengths**
 
@@ -82,10 +83,11 @@ The system includes:
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+![opti graph](https://github.com/user-attachments/assets/9cf2441b-53d8-4862-99ae-1f4ac6bf1ec6)
+
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Thus , the simulation of optical communication system was done.
