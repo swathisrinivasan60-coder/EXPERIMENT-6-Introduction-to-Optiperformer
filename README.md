@@ -86,6 +86,25 @@ The system includes:
 ![opti graph](https://github.com/user-attachments/assets/9cf2441b-53d8-4862-99ae-1f4ac6bf1ec6)
 
 
+b) Attenuation - limited fiber length:
+![exp6-2](https://github.com/user-attachments/assets/eb99b27d-5e61-4abb-985e-0cb0f654e98d)
+![exp6-2-1](https://github.com/user-attachments/assets/8b861696-0b05-4e35-adca-b94aa8778865)
+
+c)Dispersion limited fiber length:
+<img width="824" height="1280" alt="image" src="https://github.com/user-attachments/assets/0da077eb-1bb0-49f3-9b8f-e9b73152e197" />
+
+d)Dispersion compensation:
+<img width="810" height="1280" alt="image" src="https://github.com/user-attachments/assets/ddcab71b-8f06-43a9-adb6-00fc6e23891b" />
+<img width="1600" height="1429" alt="image" src="https://github.com/user-attachments/assets/5cbc75c1-de2d-4e1e-b95a-c7c863f1da5c" />
+
+ e)Gaussian pulse propagation:
+<img width="861" height="1280" alt="image" src="https://github.com/user-attachments/assets/0d27d071-b0e2-4387-be55-c2eb6cd36b8f" />
+
+f)Receiver sensitivity:
+<img width="1236" height="1600" alt="image" src="https://github.com/user-attachments/assets/8906546e-48e5-48ae-b0dc-18e3e714b439" />
+
+
+
 ---
 
 ## RESULT
